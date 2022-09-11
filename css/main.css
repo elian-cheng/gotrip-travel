@@ -169,6 +169,7 @@ body {
 }
 
 .nav__toggle {
+  cursor: pointer;
   display: none;
 }
 
